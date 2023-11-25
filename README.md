@@ -1,6 +1,6 @@
-#Olá, me chamo Leonardo Freitas e sou Bacharel em Ciência da Computação pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará - IFCE.
+Olá, me chamo Leonardo Freitas e sou Bacharel em Ciência da Computação pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará - IFCE.
 
-#O código acima está feito na linguagem Dart.
+O código acima está feito na linguagem Dart.
 
 #1 - Para realizar a execução do arquivo 'escribo.dart', é necessário a instalação do Dart SDK, caso ja o tenha instalado pule para o passo 3.
 
